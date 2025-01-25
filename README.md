@@ -35,7 +35,22 @@ transmitting bits, ECS codes them as edge counts and transmit them along with th
 information, itself edge-coded, so that the receiver is able to reconstitute the data word.
 
 ![image](https://github.com/user-attachments/assets/151a8f18-3853-43c2-bda3-d55a3384eba0)
-Figure 1:  (a) Standard serial transfer, (b) edge-coded transmitter, (c) edge-coded receiver.
+Figure 1: (a) Standard serial transfer, (b) edge-coded transmitter, (c) edge-coded receiver.
+
+# Example: ECS packet formation
+![image](https://github.com/user-attachments/assets/5e25f242-9049-4d74-9d87-f48471d3d741)
+
+Figure 2: Example: ECS packet formation.
+
+# ECS packet
+![image](https://github.com/user-attachments/assets/e56f4951-da78-4e19-addf-d8b66d90607b)
+
+Figure 3: ECS packet.
+
+# Transmission Waveforms
+![image](https://github.com/user-attachments/assets/b0ee4c2e-9695-448e-bbe4-2429bc467c32)
+
+Figure 4: (a) Transmitter, (b) receiver, (c) indices.
 
 ## For more details please consider the following publications.
 

@@ -6,7 +6,9 @@ are known as CDR less protocols. These are also known as Pulsed-Index Communicat
 techniques are based on the fundamental concept of encoding data bits as pulse trains whose counts is 
 also transmitted and used by the receiver for decoding.
 
-**Note:** The HDL code provided here is an example implementation. The implementation can have several variants.
+**Note1:** The HDL code provided here is an example implementation. The implementation can have several variants.
+
+**Note2:** Detailed text and pulications are at the bottom of the page. Following is a brief introduction.
 
 # Basic Concept:
 

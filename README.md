@@ -6,6 +6,8 @@ are known as CDR less protocols. These are also known as Pulsed-Index Communicat
 techniques are based on the fundamental concept of encoding data bits as pulse trains whose counts is 
 also transmitted and used by the receiver for decoding.
 
+**Note:** The HDL code provided here is an example implementation. The implementation can have several variants.
+
 # Basic Concept:
 
 The core idea of ECS is to select the ON bits in a data word and transmit their index numbers as
